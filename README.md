@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @irenengethe
-- 👀 I’m interested in ...user interface and user research
-- 🌱 I’m currently learning ...react, django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...inngethe@gmail.com
+- 👋 Hi, I’m @irenenjoki
+- 👀 I’m interested in artificial intelligence, machine learning and data
+- 🌱 I’m currently learning ... ai with python, react
+- 💞️ I’m looking to collaborate on ...ai projects incorporating neurodiversity
+- 📫 How to reach me ...ireeen.njoki@icloud.com
 
 <!---
 irenengethe/irenengethe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
